@@ -1,0 +1,16 @@
+body {
+  background-color: #2c2a51;
+}
+.foto {
+  border-radius: 50%;
+}
+.constrate {
+  color: #2061ba;
+}
+
+.banner {
+  background-image: url(../imagens/banner.jpg);
+  background-repeat: no-repeat;
+  background-size: 75%;
+  background-position-x: right;
+}
