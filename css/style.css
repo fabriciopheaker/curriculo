@@ -15,12 +15,11 @@ body {
   background-position-x: right;
 }
 
-.title {
-  font-size: clamp(1em, 1em + 3.3vw, 2.5em);
-}
-
 @media (max-width: 1145px) {
   .banner {
     background-image: none;
+  }
+  .title {
+    font-size: 30px;
   }
 }
